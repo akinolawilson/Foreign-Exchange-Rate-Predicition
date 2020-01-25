@@ -1,5 +1,5 @@
 
-# Statistical and Deep Learning: Foreign Exchange Rate Prediction Comparison
+# Statistical & Deep Learning: Foreign Exchange Rate Prediction Application
 __________________________________________________________________________________________________________________________________________
 
 ### Overview 
@@ -9,13 +9,20 @@ Machine learning has been applied to financial markets since the dawn of the com
 To demonstrate the feasiability of applying machine learning methods to the task of foreign exchange prediction, whilst ilustrating the entire lifecycle of producing such models. Hence, this repository contains the raw data used in this project, the data prepartion and cleaning, feature engineering and selection, training and testing of the models implemeneted in Python. The prepartion of data can be found in the _dataCleaningAndPreparing.py_ file, the training and testing in _trainingAndTest.py_ and the raw data files in _FXdataSet.zip_. 
 
 ### Prerequisites
-The packages needed to run these scripts are:
+The packages needed to run these scripts are:-
 * Pandas  
 * Scikit-learn 
 * Matplotlib 
 * Numpy 
 * Seaborn
-```
-Give examples
-```
 
+### Methods
+Two non-parametric and parametric methods are compared and these are:-
+####Parametric:-
+        * Elastic net regression
+        * Ridge regression
+####Non-parametric:-
+        * Multi-layer preceptron regression
+        * K-nearest neighbours regression 
+        
+        
