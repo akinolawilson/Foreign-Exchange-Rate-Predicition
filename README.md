@@ -21,7 +21,7 @@ The packages needed to run these scripts are:-
 ### Methods
 _______________________________________________________________________________________________________________________________________
 
-Two non-parametric and parametric methods are compared and these are:-
+Two non-parametric and parametric methods that are compared are:-
 
 ##### Parametric:-<br>
 * Elastic net regression <br>
@@ -32,7 +32,7 @@ Two non-parametric and parametric methods are compared and these are:-
 
 ### Further Development and Reading
 ________________________________________________________________________________________________________________________________________
-A review of the project in terms of code style and further improvements on models can be found at my <a href="https://www.researchgate.net/publication/338435971_Machine_Learning_Foreign_Exchange_Rate_Prediction">ResearchGate</a> account.
+A formal review of the project in terms of code style and further improvements on the models can be found at my <a href="https://www.researchgate.net/publication/338435971_Machine_Learning_Foreign_Exchange_Rate_Prediction">ResearchGate</a> account.
 
         
 
