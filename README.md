@@ -17,12 +17,12 @@ The packages needed to run these scripts are:-
 * Seaborn
 
 ### Methods
-Two non-parametric and parametric methods are compared and these are:-
-####Parametric:-
+Two non-parametric and parametric methods are compared and these are:-<br><br>
+####Parametric:-<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Elastic net regression
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Ridge regression
-<br>
-####Non-parametric:-
+<br><br>
+####Non-parametric:-<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Multi-layer preceptron regression
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* K-nearest neighbours regression 
         
