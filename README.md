@@ -30,8 +30,9 @@ Two non-parametric and parametric methods are compared and these are:-
 * Multi-layer preceptron regression <br>
 * K-nearest neighbours regression <br>
         
-### Further Development
-A review of the project can be found here <a href="https://www.researchgate.net/publication/338435971_Machine_Learning_Foreign_Exchange_Rate_Prediction">http://example.com/</a>
+### Further Development and Reading
+________________________________________________________________________________________________________________________________________
+A review of the project interms of code style and further imrpovements on models can be found at my <a href="https://www.researchgate.net/publication/338435971_Machine_Learning_Foreign_Exchange_Rate_Prediction">ResearchGate</a> account.
 
 
 
