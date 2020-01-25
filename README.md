@@ -24,10 +24,10 @@ ________________________________________________________________________________
 Two non-parametric and parametric methods are compared and these are:-<br>
 #### Parametric:-<br>
 <space><space><space><space>*<space> Elastic net regression <br>
-* Ridge regression<br>
+<space><space><space><space>*<space> Ridge regression<br>
 <br>
 #### Non-parametric:-<br>
-* Multi-layer preceptron regression<br>
-* K-nearest neighbours regression <br>
+<space><space><space><space>*<space> Multi-layer preceptron regression<br>
+<space><space><space><space>*<space> K-nearest neighbours regression <br>
         
         
