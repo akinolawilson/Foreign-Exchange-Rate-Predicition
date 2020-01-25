@@ -24,14 +24,21 @@ Two non-parametric and parametric methods are compared and these are:-
  --
 ##### Parametric:-<br>
 * Elastic net regression <br>
-* Ridge regression  --
+* Ridge regression
  --
 ##### Non-parametric:-<br>
 * Multi-layer preceptron regression <br>
 * K-nearest neighbours regression <br>
         
 ### Further Development
-A review of the code can be found at 
+A review of the project can be found at 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 
 
         
