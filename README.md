@@ -31,14 +31,8 @@ Two non-parametric and parametric methods are compared and these are:-
 * K-nearest neighbours regression <br>
         
 ### Further Development
-A review of the project can be found at 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+A review of the project can be found here <a href="https://www.researchgate.net/publication/338435971_Machine_Learning_Foreign_Exchange_Rate_Prediction">http://example.com/</a>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
 
 
         
