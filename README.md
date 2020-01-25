@@ -21,10 +21,10 @@ The packages needed to run these scripts are:-
 ### Methods
 ________________________________________________________________________________________________________________________________________
 Two non-parametric and parametric methods are compared and these are:-
-<br>
+ --
 ##### Parametric:-<br>
 * Elastic net regression <br>
-* Ridge regression <br>
+* Ridge regression  --
  --
 ##### Non-parametric:-<br>
 * Multi-layer preceptron regression <br>
